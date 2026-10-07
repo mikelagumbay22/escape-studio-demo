@@ -1,1 +1,1 @@
-# escape-studio-demo
+# Escape Studio Hair & Spa: demo concept site. An unofficial demo website concept, not affiliated with or approved by Escape Studio Hair & Spa. Static HTML, served by GitHub Pages at https://mikelagumbay22.github.io/escape-studio-demo/
